@@ -5,7 +5,7 @@ This course introduces data science methodologies, including the IBM Foundationa
 
 ## 📑 Main Topics 
 - [The IBM Foundational Methodology for Data Science]()
-- The six stages in the Cross Industry Process for Data Mining ([CRISP-DM]()) methodology, including Business Understanding and Data Understanding
+- The six stages in the Cross Industry Process for Data Mining ([CRISP-DM](https://github.com/zyad246/Courses-and-Certificates/blob/main/IBM%20Data%20Science%20Professional%20Certificate/3%20-%20Data%20Science%20Methodology/CRISP-DM.ipynb)) methodology, including Business Understanding and Data Understanding
 
 ## 🔑 Key Skills Learned 
 - The use of methodologies to solve business problems in a structured, consistent manner.
